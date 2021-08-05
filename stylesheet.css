@@ -1,0 +1,50 @@
+main > .container {
+    padding: 60px 15px 0;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+    }
+}
+
+
+#ewe {
+    font-family: 'Ewert', cursive;
+    background-color: red;
+    color: white;
+    font-size: x-large;
+}
+
+.bungee {
+    font-family: 'Bungee Shade', cursive;
+	color: black;
+    font-size: xxx-large;
+}
+
+.hana {
+    font-family: 'Hanalei', cursive;
+	color: black;
+    font-size: xxx-large;
+}
+
+.robo {
+    font-family: 'Roboto', sans-serif;
+	text-align: left;
+	color:#323232;
+	padding-top: 10px;
+}
+
+.theme {
+    background-color: black;
+    overflow: hidden;
+}
+
